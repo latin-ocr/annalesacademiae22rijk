@@ -1,0 +1,55 @@
+ 
+
+COMMENTATm in QUAESTIONEM PHYSICAM. η
+
+ι’. Ab earum directione. Si enim earum directio versus lineam ‚ quae earum media con-v
+jungit, eadem sit ‚ actio attractiva ‚ in contrario vero casu repulsiva est.
+
+2⁰. Ab angulo, quem cum linea cd faciunt. Maximum enim actionis adest, quum ille an-
+gulus sit rectus; minimum, quum ille angulus sit aequalis Zero vel 1800, quo casu
+portio cum linea cd coincidit, et :ctio nulla est; denique
+
+3⁰. A distantia portionum inter se. Actiones enim mutuae fluxuum Electricorum sunt iu
+ratione inversa quadrata distantiarum, quod clarius evadet infra, quum de experimen-
+tis Cll. Biot et Savart agemus.
+
+Consideremus nunc duas portiones infinite parvas in diversis planis sitas. Sint (fig. 9)
+portiones aaa! et ββ’ sitae in planis ABCD et ABFE , quorum sectio communis est linea
+AB ‚ quae simul media portionum conjungit. Si planum ABFE cum plano ABCD coinci—
+dat‚ in priorem casum recidimus. Quum plana quendam angulum inter se saciant ‚ attrac-
+tio adesse debet, donec ille angulus fiat aequalis 90⁰3 hac enim in positione directio por·
+tionum mutatur , attractio in repulsionem transit , et limes harum virium adest3 actio igi-
+tur hac in positione nulla est. Sub angulo maj0re repulsio locum habet3 directio enim
+
+⁷ portionum est mutata et fit contraria: sub angulo 180· maximum repulsionis adest3 tunc
+
+enim portiones diametralitcr fere sunt oppositae; sub angulo 970⁰ actio nulla est3. repulsio
+enim in attractionem transit; sub angulo majore attractio iterum locum habet3 et quando
+plana coincidunt, attractionis maximum adest (ι 5 ).
+
+Hoc igitur in casu actio mutua pendet inprimis ab angulo ‚ quem plana inter se iaciunt.
+
+VQuando enim ille angulus est nullus, maximum attractionis locum habet3 quando est 18003
+
+maximum repulsionis adest , et quando est 900 ve12700‚ nulla omnino actio locum habet.
+Praeterea actio mutua adhuc dependet ab inclinatione portionum in lineam AB , a distantia et
+ab earum directione, quod satis ex praecedentibus patet (16).
+
+§- 3. Dc actione conductoris sinuosi in conductorem rectilineum.
+
+Actio conductoris sinuosi AB (fig. ιο) , qui paullum a linea recta differt, eadem est
+ae actio conductoris rectilinei. Facile hoc demonstratur experimento ope apparatus (fig. ιο)
+instituendo. Conductor sinuosus AB ope fili PA cum extremitate positiva apparatus
+Electro-motoris communicat. Fluxus igitur adscendit in illo conductore AB, pervenit
+ope fili BMZ in capsulam Z, percurrit conductorem mobilem (fig. 5), supra descrip-
+tum, in cujus parte ab fluxus descendit, et pervenit in capsulam C, ex qua per filum
+CDE in punctum E per viam EF descendere incipit; horizontaliter prodit per filum FG,
+
+“ adscendit per conductorem rectilineum GH, tendit ad punctum 1 per filum HI ‚ descendit
+
+per viam IK, et ope fili KLN cum extremitate negativa apparatus Electro-motoris com·
+mu-
+
+(15) cf. Exposc‘ etc. §. ¹7· < 16) Cf. Expose: etc. l. c.
+C
+

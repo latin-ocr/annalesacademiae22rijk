@@ -1,0 +1,65 @@
+ 
+
+COMMENTATio ΑΒ QUAESTIONEM PHYSICAM. 22
+
+Quatuorjgitur habemus aequationes
+“ aa‘ = Aa. Sin. CAE (1)
+aa = Aa, Cos. CAE (2)
+βῖι = Αβ. Sin. BAD (3)
+fib‘ = ΑΒ. Cos. BAD (4)
+in quibus lineae Aa et Αβ intensitatem portionum determInant. Si illas uti supra g et k
+
+vocemus , obtinemus
+
+aa‘=g.sm.(}-„)=g.cos.n (ι)
+aea=g.00s,(}-„)=g.sm-,n ’ (α)
+
+fib = h. Sin. ζ.
+βό’ = h. Cos. ·ζ.’
+
+Nulla erit actio inter portiones ατί et aa, βᾶ et fib, aa et ssb¹‚ Μ’ et fib, quia sib?
+invicem perpendiculariter insistunt. Actio mutua igitur definienda est inter portiones aad
+et ssb‘, aa et βό, quarum intensitates exprimuntur aequationibus (ι) et‘ (4), (π.)
+et (3). Hae igitur aequationes inter se sunt multiplicandae, et per quadrata distantiae
+dividendae3 habemus igitur.-
+
+Ξ gh. Cos. 'g‘ Cos. {3 et
+gb. Sin. ig.rSin. ζ
+Τ
+
+actio mutua port. aea' et ssb'
+
+ 
+
+ 
+
+actio mutua port. aa et βό =
+
+Hae sunt expressiones actionis mutuae co1nponentium3 additione earum opus est ,. ut ex·
+pressio actionis mutuae portionum ex illis resultantium Aa et Αβ obtineatur.
+Habemus igitur, si actionem mutuam y vocemus:
+y -.-.- gh. Cos. u. Cos. ζ-Ι-ἕῆ. Sin. η. Sin. ζ
+r2
+= gh (Cos, n. Cos. ζ -f- Sin⁴ n. Sin. ζ)
+
+73*
+
+=gh. Cos-201 - ζ)
+Τ
+
+ 
+
+Sedu—3:2igituryz {effi-CES- ε (29)
+
+72
+Si accurate hanc expressionem consideremus, invenimus
+
+ 
+
+ιο( Si ε < ξ vel 900, actionem esse atti-activam, si scilicet fluxuum directio eadem εῖτ,
+
+quod hic semper supponimus.
+Si
+
+q (29) Cf. Journal de Physique ‚ 14 e.
+

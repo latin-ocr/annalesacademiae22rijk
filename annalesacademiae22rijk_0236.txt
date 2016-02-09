@@ -1,0 +1,66 @@
+6 J, N. vim PUTTKAMMER
+
+S. 2. De Linea Recta.
+
+Series punctorum in linea recta posita rectam efficit, eorumque punctorum projectio-
+nes supra quodcunque coordinatarum pianum iii linea recta sunt: planum projiciens
+dicitur illud planum quod omnes illas projectiones recipit, et projectio rectae vocatur
+intersectio cum plano coni-dinato.
+
+Ut igitur rectam cognoscamus projectiones suae supra plana coordinata cognitae
+esse debent. ’
+
+Sit itaque (fig. 4.)
+
+ΑΡ : ΡΜ = Sin. οι 2 Cos. σι
+x εἴ :Sin.oe: Cos.x
+
+γ...
+
+Sin. κ
+Cosa
+
+=z Tang-oa (1).
+
+ 
+
+igitur x = z
+
+sive si pio Tang. οι ponatur a
+x = az , gy = bz,
+quae sunt aequationes projectionum supra plana xz et ,γε si lInea pei· originem A tran·
+sit: sed si pei iliam non transeat (fig. 5) distantia ab origine exprimitur pei· a vel β,
+ita ut sit ⁷
+x=az÷oe‚ y=bz÷ssz
+
+quae projectionum aequationes etiam illae sunt tectae lineae, cujus positio a constanti-
+btis α, β, a, b pendet.
+
+inveniuntur coordinatae punctorum ubi recta linea transit pei· tria plana {rectangm
+
+laria si ponamus
+· z τ.- 0, y = 0, x = 0
+iiam tunc erit
+
+x ε σε, gy = β pro intersectionis puncto in planum xy.
+
+β (ιβ
+
+z = —-, x = — ἶ- 4- οι pro intersectionis puncto in planum xz.
+
+b
+σε αὖ . . . .
+z = -ἇ, y = -· -a- -Ι- β pro intersectionis puncto in planum yz (2).
+
+Problc m a! a.
+
+Ι.
+
+Invenire aequationes lineae rectae quae transit pet punctum datum et paraiieia est
+lineae datae, cujus aequationes sunt:
+
+(i ) Vid. J. H. van Swimz'cv⁹ Grondheginselen der Mecstzmde, Viii Book 35 Voorst. No. 120.
+(2) Vid. lilauge, a. l. pag. 3. B1'of, §. 24 et 28. ancocur, ς. 624.
+
+ 
+

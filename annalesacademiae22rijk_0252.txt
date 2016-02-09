@@ -1,0 +1,54 @@
+22 J. N. van PUTTKAMMER
+
+substituamus illam in aequatione generali secundi gradus ut inveniamus omnia puncta
+quae suut et in plano curvato et in plano parallelo illi axium xy, atque inde fit
+
+A‘y2 -l- A‘'.v2 -Ι- ss'‘xy -Ι- (Βό-Ι- C‘¹)x -Ι- (ssc -J- C')y = -— Ac2 —Cc — F:
+
+quae cum duabus variabilibus constat aequatio semper sectionem conicam representat,
+sive potius ejus projectionem sectioni conicae aequalem atque uniformem·
+
+Sit autern c = 0 tunc acquirimus:
+A'y2 -ξ- A¹'x² -1- Β”.κ,γ -1- C⁷'x -Ι- C'y -Ι- F = 0,
+quae est aequatio intersectionis plani propositi cum plano xy.
+
+Sic etiam si coordinatarum x ‚ y et z duae in prima hujus §. aequatione sint zero
+acquirimus puncta, in quibus superficies curvata axibus secatur: erit tunc
+
+Az² -Ι- Cz -Ι- F = 0,
+A'32 ·l-C'y ÷F=0 ,
+Α”πὲ -Ι- C''x -Ι- F = Ο,
+unde in universum duo in unaquaque axi talia intersectionis puncta adesse debere
+
+aequtul'.
+secetur planum curvatum per planum cujus est aequatio
+
+Ax4By÷Cz4D=03
+
+ut nunc aequationes trium intersectionis projectionum inveniamus, una trium variabilium
+x, y et z ex hac aequatione et prima generali est ejicienda: sed cum haec sit primi
+illa vero secundi gradus aequatio etiam aequationes quac inde profiscuntur non ultra
+secundum gradum possunt adscendere, atque ita sectionem conicam proponunt (1).
+
+Sic quaedam proposuimus quomodo per plani aequationem ad ejus formae cognitio-
+nem possumus pervenire, exemplo adhuc monstremus quomodo ex plani forma ad
+eJ'us aequationem possumus pervenire.
+
+Inveniamus igitur aequationem plani conici basi circulari.
+
+Sint verticis coordinatae κ’, y‘, z', aequationes axeos
+
+(x—x')=a(z-z')‚ (y-y')=b(z-z')2
+et lineae mobilis sive obliquae aequationes
+(x—x')=a'(z--z')‚ (J-y')=b'(z-z')⁵
+
+tunc α’ et b' sunt variabiles ‚ quae pro unaquaque lineae positione mutantur.
+Angulus hujus lineae cum axe est constans quantitas, atque si ponamus ejus
+
+Cos. Ξ Μ erit
+M =
+
+(a ) vid. Schmidt, S. 220.
+
+ 
+

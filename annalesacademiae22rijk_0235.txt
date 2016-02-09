@@ -1,0 +1,117 @@
+ 
+
+RESPONSIO AD QUAESTIONEM MATHEMAUCAM,
+
+Ul
+
+Problema.
+
+Invenire distantiam duorum punctorum, quorum coordinatae sunt cognitae.
+Sint (fig. a.) m, M, illa puncta, coordinatae x, y, z, π’, y', z', ducatur ex m in
+MM' linea mQ' parallela plano xy et erit
+
+{aff-1²: γ ΜᾶΩ -Ι- mQ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= (MM‘-mm‘)2 -Ι- m'M'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ε’-ιγ -1- m‘M‘
+<z‘—z>2 ÷ W? -ι- m‘Q2
+(ε’-εγ -1— (M‘P‘-QP‘>² ÷ <AP‘- ΛΡ)2
+(2'-z>² -i- (α’-ΝΖ ·-Ι- (x'—x)2 (1)-
+Sit D distantia quaesita, tunc erit
+
+D = νῶτ’-ἠΰ)2 -Ι- (ν’-Ὗ)2 -1- (z'·-2)²)
+
+unde sequitur quadratum distantiae duorum punctorum esse aequale summae quadrato-
+rum projectionum supra tres axes tectangulares.
+
+Ponatur punctum m in coordinatatum origine et erit
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Η ΙΙ Η
+
+³⁶:02 ΝΞΟ, z=0‚.
+
+D = zscx'2÷y‘²÷z‘2)
+{luae est distantia puncti cujusque a coordinatarum origine: nam cum (fig. 3.)
+ΛΔ ΑΜΜ’ et AM‘P sunt rectangularia‚ primum in Μ’, alterum in P, erit
+
+ff? = ἐς-Μ’2 ÷ ΜΜ2
+= AP2—1- M‘P2 -Ι- MM‘2
+t = x2 ÷ ψ -ι- 22 ’
+unde quadratum diagonalis parall'elopipedi rectangularis aequale summae quadratorum
+
+trium ejus axium (2). Sit AM (fig. 3) vel mM (fig. 2.) radius globi tune aequatio-
+nes propositae erunt aequationes globi*
+
+finde
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+S. 2.
+
+Ι
+
+(1) Est etiam mM = Coqmssth' et igitur litiea est aequalis suae projectioni supra quo-:i-
+cunque planum divisae per co'sinu'm anguli cum illo plano facti.
+
+(2) Vid- J.. B· Bm, Essai de Geometrie Analytique, §··37--40r et L. B. Francoeur mammem>
+tiques Putes, §.¹599—602..
+
+ 
+
+Ag:
+
